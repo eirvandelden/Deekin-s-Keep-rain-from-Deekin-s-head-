@@ -7,6 +7,12 @@ class EquipmentController < ApplicationController
     @equipment = Equipment.all
   end
 
+  # GET /equipment
+  # GET /equipment.json
+  def admin
+    @equipment = Equipment.all
+  end
+
   # GET /equipment/1
   # GET /equipment/1.json
   def show

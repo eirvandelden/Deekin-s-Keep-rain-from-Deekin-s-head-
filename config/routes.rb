@@ -7,6 +7,7 @@ Rails.application.routes.draw do
 
   root 'equipment#index'
   resources :equipment
+  get 'admin' => 'equipment#admin'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
