@@ -8,7 +8,27 @@
 </head>
 <body>
 
-<%= yield %>
+<section class='hero'>
+  <div class='hero-inner'>
+    <aside>
+      <a href="" class="hero-logo">
+        <img src="http://vignette4.wikia.nocookie.net/forgottenrealms/images/a/ac/Deekin_portrait.jpg/revision/latest?cb=20070427023000" alt="Logo Image">
+      </a>
+    </aside>
+    <article>
+        <div class="hero-copy">
+        <h1>Deekin Scalesinger</h1>
+        <p>Welcome to Deekin's Keep Rain From Deekin's Head! <br />
+            How may Deekin help you?</p>
+        </div>
+    </article>
+  </div>
+</section>
 
+<section class='container'>
+  <div class='wrapper'>
+    <%= yield %>
+  </div>
+</section>
 </body>
 </html>
