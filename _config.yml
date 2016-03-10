@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Deekin's "Keep Rain from Deekin's Head"
+email: eirvandelden@me.com
+description: > # this means to ignore newlines until "baseurl:"
+  How may Deekin help you?
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://deekin.eirvandelden.com" # the base hostname & protocol for your site
+twitter_username: eirvandelden
+github_username:  eirvandelden
+
+# Build settings
+markdown: kramdown
