@@ -10,7 +10,7 @@ title: Deekin's "Keep Rain from Deekin's Head"
 email: eirvandelden@me.com
 description: > # this means to ignore newlines until "baseurl:"
   How may Deekin help you?
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: {{ site.github.url }} # the subpath of your site, e.g. /blog
 url: "http://eirvandelden.github.io/Deekins-Shop/" # the base hostname & protocol for your site
 twitter_username: eirvandelden
 github_username:  eirvandelden
