@@ -24,3 +24,5 @@ You can have only one such sworn enemy at a time. When your sworn enemy dies, yo
 
 When you make a ranged attack roll with this weapon against your sworn enemy, you have advantage on the roll.
 While your sworn enemy lives, you have disadvantage on attack rolls with all other weapons.
+
+<a href="{{ site.base.url }}/xml/hunters-sniper-rifle.xml">Download Fight Club XML File</a>

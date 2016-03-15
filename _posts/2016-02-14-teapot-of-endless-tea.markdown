@@ -17,3 +17,5 @@ You can use an action to speak one of four command words, whereupon an amount of
 • "流 Liu (Stream)" produces 1 gallon of tea.
 • "喷泉 Penquan  (Fountain)" produces 5 gallons of tea.
 • "热水器 Rèshuǐqì (Geyser)" produces 30 gallons of tea that gushes forth in a geyser 30 feet long and 1 foot wide. As a bonus action while holding the teapot, you can aim the geyser at a creature you can see within 30 feet of you. The target must succeed on a DC 13 Strength saving throw or take 1d4 bludgeoning damage and fall prone. Instead of a creature, you can target an object that isn't being worn or carried and that weighs no more than 200 pounds. The object is either knocked over or pushed up to 15 feet away from you.
+
+<a href="{{ site.base.url }}/xml/teapot-of-endless-chinese-tea.xml">Download Fight Club XML File</a>

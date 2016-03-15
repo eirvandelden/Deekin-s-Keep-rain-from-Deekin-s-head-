@@ -6,3 +6,5 @@ categories: jekyll update
 ---
 
 Heals the imbiber for 2d4+2 HP.
+
+<a href="{{ site.base.url }}/xml/healing-potion.xml">Download Fight Club XML File</a>

@@ -10,3 +10,5 @@ This perfectly round silver shield initially has a mirror finish. As a hero take
 The bearer of the shield may also attempt to recount past battles (real or imagined) to the shield. Upon a DC 10 charisma check or DC 15 bluff check, the shield confers a +1 AC against the creatures described in the tall tales.
 
 3 failed attempts at recounting stories cause the shield to be cleared of all of its memories. The engravings disappear. It reverts to its mirror finish. All bonuses are lost.
+
+<a href="{{ site.base.url }}/xml/shield-of-heroic-memories.xml">Download Fight Club XML File</a>

@@ -16,3 +16,5 @@ Twice daily, can be placed in front of a locked object to unlock it (functions a
 # Side Effects
 
 While picking the lock, the Nit Picker critiques any or all members of the party on their recent performance in the campaign. Nothing escapes the critical eye of the Nit Picker, no matter how small the perceived offense.
+
+<a href="{{ site.base.url }}/xml/nit-picker.xml">Download Fight Club XML File</a>

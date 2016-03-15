@@ -31,3 +31,5 @@ The Leopard 2A7 Mark I retains any damage it takes between transformations.
 If the Leopard 2A7 Mark I is destroyed, it reverts back to its Portable Mode.
 Seven days later, all damage it took is reset to 0 and the Leopard 2A7 Mark I can be used again
 The Leopard 2A7 Mark I has the above stats.
+
+<a href="{{ site.base.url }}/xml/leopard-2a7-mark-1.xml">Download Fight Club XML File</a>
