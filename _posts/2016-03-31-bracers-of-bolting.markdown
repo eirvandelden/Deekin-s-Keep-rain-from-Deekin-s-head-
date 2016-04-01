@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bracers of Bolting  (500 GP)"
-date:   2016-03-10 12:36:11 +0100
+date:   2016-03-31 12:36:11 +0100
 categories: jekyll update
 excerpt: "Power! Unlimited Power!"
 ---

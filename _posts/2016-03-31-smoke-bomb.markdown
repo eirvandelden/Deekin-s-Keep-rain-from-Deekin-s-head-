@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Smoke Bomb  (75 GP each)"
-date:   2016-03-10 12:36:11 +0100
+date:   2016-03-31 12:36:11 +0100
 categories: jekyll update
 excerpt: "Jimmy, give me a smoke screen!"
 ---
