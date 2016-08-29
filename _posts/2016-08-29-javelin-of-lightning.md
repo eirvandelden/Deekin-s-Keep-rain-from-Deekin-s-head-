@@ -12,4 +12,4 @@ The javelin's property can't be used again until the next dawn. In the meantime,
 
 _Source_ Dungeon Master's Guide, page 178
 
-<a href="{{ site.base.url }}/xml/javelin-of-ligthing.xml">Download Fight Club XML File</a>
+<a href="{{ site.base.url }}/xml/javelin-of-lightning.xml">Download Fight Club XML File</a>
